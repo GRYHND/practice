@@ -1,2 +1,2 @@
-# practice
+# Practice
 A home for any code written for tutorials, practice etc
